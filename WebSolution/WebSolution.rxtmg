@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc>
+  <testsuiteentryhierarchy>
+    <flatlistofchildren>
+      <modulegroups
+      name="WebSolution"
+      id="687c7d92-045d-4e56-a25a-5c1386407b66"/>
+    </flatlistofchildren>
+    <childhierarchy>
+      <modulegroups
+      name="WebSolution"
+      id="687c7d92-045d-4e56-a25a-5c1386407b66"/>
+    </childhierarchy>
+  </testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,229 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<recordtable
+embeddedrepository="False"
+id="d866614e-063c-4a9b-af7a-71ac0e3669d7"
+mode="Desktop">
+	<repeatcount>
+		1
+	</repeatcount>
+	<turbomode>
+		False
+	</turbomode>
+	<genreport>
+		True
+	</genreport>
+	<speedfactor>
+		1
+	</speedfactor>
+	<useDefaultItemLogging>
+		True
+	</useDefaultItemLogging>
+	<codegen
+	classname="ClearBtn"
+	namespace="WebSolution">
+	</codegen>
+	<variables>
+		<var
+		id="336eac32-fbff-4cce-aae7-4c96518d9fe2"
+		name="LName">
+			Sikanjic
+		</var>
+		<var
+		id="0269bc1f-321a-4c6d-a28f-7ca10b18722a"
+		name="FName">
+			Slavisa
+		</var>
+		<var
+		id="3f61a301-b416-4903-ae90-985600f611d0"
+		name="Category">
+			Music
+		</var>
+	</variables>
+	<recorditems>
+		<mouseitem
+		action="Click"
+		button="Left"
+		duration="300ms"
+		enabled="True"
+		loc="Center"
+		movetime="300ms"
+		optional="False"
+		searchpropertyid="2159b2fd-4c40-4e8b-9900-44ef0ef0798f"
+		sx="1227"
+		sy="555"
+		warnoutofbounds="False">
+			<comment>
+			</comment>
+			<bindings>
+			</bindings>
+			<info
+			id="15eb58e9-65f5-4917-80cd-3ad657f43579"
+			sourcename="Recorder">
+				<element
+				capabilities="webelement, inputtag"
+				dontcache="True"
+				enabled="True"
+				flavor="chromeweb"
+				hasfocus="False"
+				index="0"
+				prefcap="inputtag"
+				rect="1202,544,57,23"
+				role="unknown"
+				snapElem=""
+				valid="True"
+				visible="True">
+					<attribute
+					name="draggable"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="hidden"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="id"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="innertext"
+					type="System.String">
+					</attribute>
+					<attribute
+					name="tagname"
+					type="System.String">
+						input
+					</attribute>
+					<attribute
+					name="tagvalue"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="autofocus"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="checked"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="disabled"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="height"
+					type="System.String">
+						0
+					</attribute>
+					<attribute
+					name="multiple"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="required"
+					type="System.String">
+						False
+					</attribute>
+					<attribute
+					name="size"
+					type="System.String">
+						20
+					</attribute>
+					<attribute
+					name="type"
+					type="System.String">
+						button
+					</attribute>
+					<attribute
+					name="value"
+					type="System.String">
+						Clear
+					</attribute>
+					<attribute
+					name="width"
+					type="System.String">
+						0
+					</attribute>
+					<dynamicattribute
+					description="Dynamic HTML attribute."
+					name="onclick"
+					readonly="False"
+					type="System.String">
+					</dynamicattribute>
+				</element>
+				<path>
+					/dom[@domain='www.ranorex.com']//input[#'Clear']
+				</path>
+			</info>
+			<helperscreenshot
+			guid="a66ec3ef-96dc-48fe-b5a7-0cd9c4f1e413">
+				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
+			</helperscreenshot>
+		</mouseitem>
+	</recorditems>
+	<repository
+	id="64541203-d430-4a67-8e6c-2505b8e50a38"
+	name="WebSolutionRepository"
+	relativepath="WebSolutionRepository.rxrep">
+		<codegen
+		classname="WebSolutionRepository"
+		namespace="WebSolution">
+		</codegen>
+		<rootfolder
+		id="e387de63-794e-44f1-ad68-a380279dd04d"
+		name="_rootdummy_">
+		</rootfolder>
+	</repository>
+	<usercodefile
+	lang="CSharp">
+		ClearBtn.UserCode.cs
+	</usercodefile>
+	<references>
+	</references>
+</recordtable>
